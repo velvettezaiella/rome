@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(80, 4, 4) ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(250, 193, 154)
+}
+
+.header {
+
+    padding: 30px;
+    background-color: rgb(80, 4, 4) ;
+    text-align: center;
+
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: rgb(80, 4, 4) ;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color:bisque;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration:none;
+
+}
+
+.footer {
+    position: absolute;
+    bottom: 0%;
+    right: 20px;
+}
+
+.img {
+
+    text-align:center;
+    display:inline-block;
+    vertical-align:middle;
+}
+
+.helper {
+    display:inline-block;
+}
